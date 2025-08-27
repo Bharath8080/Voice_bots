@@ -3,3 +3,10 @@ streamlit
 groq 
 together 
 deepgram-sdk
+
+
+pyttsx3 
+edge-tts 
+pygame
+
+google-genai
